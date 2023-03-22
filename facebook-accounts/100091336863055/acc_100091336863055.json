@@ -141,5 +141,9 @@
 		"92111877",
 		"94823943",
 		"97048740"
-	]
+	],
+	"email": "munroevir@outlook.com",
+	"emailPassword": "Munroe19961996",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }

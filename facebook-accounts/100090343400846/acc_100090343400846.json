@@ -128,6 +128,18 @@
 			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679520993399%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.03.2023 21:50 Registro",
-	"code2fa": "YIJE6CYH7HRTSENLUOHNZPOJVKUDXSAY"
+	"lastEventDate": "22.03.2023 21:51 Registro",
+	"code2fa": "YIJE6CYH7HRTSENLUOHNZPOJVKUDXSAY",
+	"recoveryCodes": [
+		"16616433",
+		"24863980",
+		"33948239",
+		"35346541",
+		"49404021",
+		"54841622",
+		"56260609",
+		"71199523",
+		"99128819",
+		"99549535"
+	]
 }

@@ -141,5 +141,9 @@
 		"71199523",
 		"99128819",
 		"99549535"
-	]
+	],
+	"email": "rhonelma945@outlook.com",
+	"emailPassword": "Elma99Elma",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }

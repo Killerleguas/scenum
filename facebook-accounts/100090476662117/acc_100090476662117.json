@@ -141,5 +141,9 @@
 		"88930294",
 		"95330682",
 		"96530908"
-	]
+	],
+	"email": "ma.mortland@outlook.com",
+	"emailPassword": "DbElLYo361",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }

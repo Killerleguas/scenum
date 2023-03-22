@@ -141,5 +141,9 @@
 		"77089183",
 		"79367180",
 		"86577455"
-	]
+	],
+	"email": "carolinewest_97@outlook.com",
+	"emailPassword": "m1YSt7ery",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }

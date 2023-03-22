@@ -141,5 +141,9 @@
 		"86740677",
 		"87461295",
 		"94593165"
-	]
+	],
+	"email": "mccalledenisha@outlook.com",
+	"emailPassword": "b29UrDen",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }

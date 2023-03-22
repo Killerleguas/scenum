@@ -141,5 +141,9 @@
 		"81403252",
 		"92524919",
 		"92876089"
-	]
+	],
+	"email": "blossomcostigan.01@outlook.com",
+	"emailPassword": "fo27reheaD",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }

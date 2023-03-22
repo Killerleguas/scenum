@@ -141,5 +141,9 @@
 		"29172274",
 		"48620132",
 		"65833180"
-	]
+	],
+	"email": "rashida_cheairs.76@outlook.com",
+	"emailPassword": "Cheairs1976",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }

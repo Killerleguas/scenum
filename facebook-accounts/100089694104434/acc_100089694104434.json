@@ -128,6 +128,18 @@
 			"value": "700x699"
 		}
 	],
-	"lastEventDate": "22.03.2023 22:25 Registro",
-	"code2fa": "XDIJKQEOGYGBC3HJ7ZHJORHAG672ESQE"
+	"lastEventDate": "22.03.2023 22:27 Registro",
+	"code2fa": "XDIJKQEOGYGBC3HJ7ZHJORHAG672ESQE",
+	"recoveryCodes": [
+		"02354564",
+		"12659117",
+		"23359414",
+		"25178941",
+		"26026745",
+		"26282501",
+		"26851607",
+		"29172274",
+		"48620132",
+		"65833180"
+	]
 }

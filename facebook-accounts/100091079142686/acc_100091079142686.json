@@ -141,5 +141,9 @@
 		"86765131",
 		"96299808",
 		"96326020"
-	]
+	],
+	"email": "hinck.cas@outlook.com",
+	"emailPassword": "hinck652",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
